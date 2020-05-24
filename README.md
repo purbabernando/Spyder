@@ -1,2 +1,2 @@
-# Spyder
-Spyder Connection Test
+# Pycharm
+Pycharm Connection Test
